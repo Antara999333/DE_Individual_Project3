@@ -3,6 +3,19 @@ For this week's mini-project, Azure Databricks is employed to construct a pipeli
 # PREPARE
 ![Alt Text](preparepic.png)
 
+# ANALYZE
+![Alt Text](analyzesongspic.png)
+![Alt Text](analyzepicure.png)
+
+
+# Successful data pipeline for all three: 
+![Alt Text](analyzepicure.png)
+
+
+
+
+
+
 
 
 
