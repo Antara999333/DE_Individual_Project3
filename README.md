@@ -9,7 +9,7 @@ For this week's mini-project, Azure Databricks is employed to construct a pipeli
 
 
 # Successful data pipeline for all three: 
-![Alt Text](new workflow.png)
+![Alt Text](new_workflow.png)
 
 
 
