@@ -7,6 +7,7 @@ Azure Databricks is employed to construct a pipeline utilizing the lab's song da
 # QUERY
 ![Alt Text](analyzesongspic.png)
 ![Alt Text](analyzepicure.png)
+![Alt Text](visualisation_Individualproject.png)
 
 
 # Successful data pipeline for all three: 
