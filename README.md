@@ -65,6 +65,7 @@ The pipeline is set to automatically trigger on a push to the main branch of the
 
 # Successful data pipeline for all three: 
 ![Alt Text](new_workflow.png)
+https://youtu.be/Hf_jIP6XPk4
 
 
 
